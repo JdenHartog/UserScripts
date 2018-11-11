@@ -10,7 +10,7 @@
 // @homepage    https://github.com/jerone/UserScripts/tree/master/Marktplaats_Exchanger#readme
 // @homepageURL https://github.com/jerone/UserScripts/tree/master/Marktplaats_Exchanger#readme
 // @downloadURL https://github.com/jerone/UserScripts/raw/master/Marktplaats_Exchanger/Marktplaats_Exchanger.user.js
-// @updateURL   https://github.com/jerone/UserScripts/raw/master/Marktplaats_Exchanger/Marktplaats_Exchanger.user.js
+// @updateURL   https://github.com/JdenHartog/UserScripts/raw/master/Marktplaats_Exchanger/Marktplaats_Exchanger.user.js
 // @supportURL  https://github.com/jerone/UserScripts/issues
 // @contributionURL https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VCYMHWQ7ZMBKW
 // @version     1.0.0
