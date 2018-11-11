@@ -1,6 +1,6 @@
 // ==UserScript==
 // @id          Marktplaats_Exchanger@https://github.com/jerone/UserScripts
-// @name        Marktplaats Exchanger
+// @name        Marktplaats Exchanger2
 // @namespace   https://github.com/jerone/UserScripts
 // @description Exchange Marktplaats.nl
 // @author      jerone
