@@ -9,11 +9,11 @@
 // @license     GPL-3.0-or-later; http://www.gnu.org/licenses/gpl-3.0.txt
 // @homepage    https://github.com/jerone/UserScripts/tree/master/Marktplaats_Exchanger#readme
 // @homepageURL https://github.com/jerone/UserScripts/tree/master/Marktplaats_Exchanger#readme
-// @downloadURL https://github.com/jerone/UserScripts/raw/master/Marktplaats_Exchanger/Marktplaats_Exchanger.user.js
+// @downloadURL https://github.com/JdenHartog/UserScripts/raw/master/Marktplaats_Exchanger/Marktplaats_Exchanger.user.js
 // @updateURL   https://github.com/JdenHartog/UserScripts/raw/master/Marktplaats_Exchanger/Marktplaats_Exchanger.user.js
-// @supportURL  https://github.com/jerone/UserScripts/issues
+// @supportURL  https://github.com/JdenHartog/UserScripts/issues
 // @contributionURL https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VCYMHWQ7ZMBKW
-// @version     1.0.3
+// @version     1.0.4
 // @grant       none
 // @run-at      document-end
 // @include     https://www.marktplaats.nl/mymp/kopen/index.html
@@ -50,5 +50,5 @@
 	});
 	button.appendChild(selectInput);
 
-	button.appendChild(document.createTextNode(" Verkocht103"));
+	button.appendChild(document.createTextNode(" Verkocht104"));
 })();
